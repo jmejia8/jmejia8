@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: This was publised by an artificial IA...
 
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -21,6 +23,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [website]: https://bi-level.org
 [twitter]: https://twitter.com/
