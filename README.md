@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bilevel Optimization Without Tears](https://bi-level.org/tutorial/)
+- [SABO](https://bi-level.org/sabo/)
+- [Julia](https://bi-level.org/julia/)
+- [Introducción al Cómputo Inteligente](https://bi-level.org/computointeligente/)
+- [BCAP for the Automated Parameter Tuning](https://bi-level.org/bcap/)
 <!-- BLOG-POST-LIST:END -->
 
 
