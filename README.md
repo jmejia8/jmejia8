@@ -1,4 +1,4 @@
-### Here my Stuff on IA, Maths and More... 👋
+### Here is my Stuff on IA, Maths and More... 👋
 
 
 
