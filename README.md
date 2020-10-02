@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Intelligent Computing
 - 🤔 I’m looking for help with Multi-Objective Optimization
 - 💬 Ask me about AI
-- 📫 How to reach me: go to my [vitual office](https://bi-level.org)
+- 📫 How to reach me: go to my [website](https://bi-level.org)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: This was publised by an artificial AI...
+- ⚡ Fun fact: This was published by an artificial AI...
 
 
 [![Jesús' github stats](https://github-readme-stats.vercel.app/api?username=jmejia8)](https://github.com/anuraghazra/github-readme-stats)
