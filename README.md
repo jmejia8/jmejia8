@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: This was published by an artificial AI...
 
 
-[![Jesús' github stats](https://github-readme-stats.vercel.app/api?username=jmejia8)](https://github.com/anuraghazra/github-readme-stats)
+[![Jesús' github stats](https://github-readme-stats.vercel.app/api?username=jmejia8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
